@@ -7,3 +7,8 @@ def moyenne (valeurs):
     return sum/n
 
 print("Tu as comme moyenne: ", moyenne([8, 15, 20, 5]))
+
+def fonction():
+    return 0
+
+#modif
