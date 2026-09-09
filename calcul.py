@@ -6,6 +6,9 @@ def moyenne (valeurs):
         n += 1
     return sum/n
 
+def ecart_type():
+    return 0
+
 print("Tu as comme moyenne: ", moyenne([8, 15, 20, 5]))
 
 def fonction():
