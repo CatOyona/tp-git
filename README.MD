@@ -1,4 +1,3 @@
-** TITRE A**
-** TITRE B**
+** TITRE **
 
 Super projet
